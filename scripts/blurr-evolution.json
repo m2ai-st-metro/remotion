@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "BLURR: The Evolution of Racing",
+    "description": "From racing heritage through autonomous technology to Blurr — a Rapid Blue C8 Corvette on the Tail of the Dragon.",
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "theme": {
+      "primary": "#00e5ff",
+      "secondary": "#0a1628",
+      "background": "#000000",
+      "text": "#ffffff",
+      "fontFamily": "Inter, system-ui, sans-serif"
+    }
+  },
+  "scenes": [
+    {
+      "type": "title",
+      "narration": "",
+      "audioFile": "audio/silence_4s.mp3",
+      "props": {
+        "heading": "THE EVOLUTION OF RACING",
+        "subheading": "Where heritage meets autonomy",
+        "background": "assets/blurr/gen05_silverstone_golden.jpg"
+      }
+    },
+    {
+      "type": "screenRecording",
+      "narration": "",
+      "props": {
+        "clip": "clips/blurr/seedance_v1_heritage.mp4",
+        "muteOriginal": true
+      }
+    },
+    {
+      "type": "screenRecording",
+      "narration": "",
+      "props": {
+        "clip": "clips/blurr/seedance_v2_f1tenth.mp4",
+        "muteOriginal": true
+      }
+    },
+    {
+      "type": "screenRecording",
+      "narration": "",
+      "props": {
+        "clip": "clips/blurr/seedance_v3_engineering.mp4",
+        "muteOriginal": true
+      }
+    },
+    {
+      "type": "screenRecording",
+      "narration": "",
+      "props": {
+        "clip": "clips/blurr/seedance_v4_c8.mp4",
+        "muteOriginal": true
+      }
+    },
+    {
+      "type": "screenRecording",
+      "narration": "",
+      "props": {
+        "clip": "clips/blurr/pdr_switchback_071g.mp4",
+        "muteOriginal": true
+      }
+    },
+    {
+      "type": "screenRecording",
+      "narration": "",
+      "props": {
+        "clip": "clips/blurr/pdr_foggy_mountain.mp4",
+        "muteOriginal": true
+      }
+    },
+    {
+      "type": "screenRecording",
+      "narration": "",
+      "props": {
+        "clip": "clips/blurr/pdr_mountain_vista.mp4",
+        "muteOriginal": true
+      }
+    },
+    {
+      "type": "screenRecording",
+      "narration": "",
+      "props": {
+        "clip": "clips/blurr/dji_orbit_c8.mp4",
+        "muteOriginal": true
+      }
+    },
+    {
+      "type": "title",
+      "narration": "",
+      "audioFile": "audio/silence_5s.mp3",
+      "props": {
+        "heading": "",
+        "subheading": "",
+        "background": "assets/blurr/gen14_blurr_logo.jpg"
+      }
+    }
+  ]
+}
